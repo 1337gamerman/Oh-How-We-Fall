@@ -1,5 +1,5 @@
 # Oh, How We Fall
-</html>
+<html lang=en-US>
 <body>
 <p><c>This is the browser version of "Oh, How We Fall"</c></p>
 <p>This is just a little idle/adventure game.</p>
